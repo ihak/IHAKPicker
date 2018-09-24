@@ -13,11 +13,6 @@ type Props = {};
 export default class App extends Component<Props> {
   constructor(props) {
     super(props);
-    this.data = [];
-    for (var i = 0; i < 15; i++) {
-      this.data.push({ label: `${i}`, value: `${i}` });
-    }
-
     this.data = [
       {
         label: "JavaScript",
@@ -129,10 +124,5 @@ const styles = StyleSheet.create({
   label: {
     textAlign: "center",
     margin: 10
-  },
-  instructions: {
-    textAlign: "center",
-    color: "#333333",
-    marginBottom: 5
   }
 });
