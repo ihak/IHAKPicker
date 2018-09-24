@@ -79,8 +79,8 @@ For further implementational details see example implementation in ```App.js```.
 
 | iOS | Android |
 |---|---|
-| ![iOS example screenshot 1](https://github.com/ihak/IHAKPicker/blob/master/ios_1.png) | ![Android example screenshot 1](https://github.com/ihak/IHAKPicker/blob/master/android_1.png) |
-|![iOS example screenshot 1](https://github.com/ihak/IHAKPicker/blob/master/ios_2.png) | ![Android example screenshot 2](https://github.com/ihak/IHAKPicker/blob/master/android_2.png) |
+| ![iOS example screenshot 1](https://raw.githubusercontent.com/ihak/IHAKPicker/master/ios_1.png) | ![Android example screenshot 1](https://raw.githubusercontent.com/ihak/IHAKPicker/master/android_1.png) |
+|![iOS example screenshot 1](https://raw.githubusercontent.com/ihak/IHAKPicker/master/ios_2.png) | ![Android example screenshot 2](https://raw.githubusercontent.com/ihak/IHAKPicker/master/android_2.png) |
 
 ## License
 MIT.
