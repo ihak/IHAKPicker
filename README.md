@@ -1,8 +1,8 @@
 # IHAKPicker
-Custom react-native picker component for iOS and Android.
+Custom React-Native picker component for iOS and Android.
 
 ## Description
-This component used react-native's default picker component. 
+This component uses React-Native's default picker component. 
 Additionally, it displays an overlay, animates the picker view and provide confirm and cancel options in iOS. 
 
 In Android, it provides a simple dropdown menu with different customization options.
