@@ -76,7 +76,6 @@ For further implementational details see example implementation in ```App.js```.
 ```ihakpicker.js```.
 
 ## Example
-#### iOS
 
 | iOS | Android |
 |---|---|
