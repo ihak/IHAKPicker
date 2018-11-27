@@ -1,6 +1,6 @@
 {
   "name": "ihakpicker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom react-native picker component for iOS and Android.",
   "main": "index.js",
   "scripts": {
@@ -10,12 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ihak/IHAKPicker.git"
   },
-  "keywords": [
-    "react-native",
-    "picker",
-    "ios",
-    "android"
-  ],
+  "keywords": ["react-native", "picker", "ios", "android"],
   "author": "Hassan Ahmed Khan <hassandotahmed@gmail.com>",
   "license": "ISC",
   "bugs": {
