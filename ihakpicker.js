@@ -46,7 +46,10 @@ export default class IHAKPicker extends Component<Props> {
 	}
 
 	setModalVisible(visible) {
-		this.setState({ modalVisible: visible });
+		this.setState({
+			modalVisible: visible,
+			selectedValue: this.props.selectedItem.value
+		});
 		this._slidePicker(visible);
 	}
 
